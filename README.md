@@ -24,6 +24,10 @@ The About page (`about.html`) provides detailed information about TechCon 2024, 
 
 This page uses semantic HTML5 elements to organize content effectively and ensure accessibility compliance. Navigation and footer remain consistent across all pages.
 
+### >>TechCon 2024 Conference Website - Schedule Page
+
+This page presents the full event schedule for TechCon 2024 in a structured table format. It includes session times, topics, and speaker names with a clean layout, ensuring clarity and accessibility. Navigation and footer are consistent across all pages.
+
 ## Technologies
 
 - HTML5 only (no external libraries or frameworks)
