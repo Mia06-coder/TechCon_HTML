@@ -14,6 +14,16 @@ The homepage (`index.html`) serves as the main landing page for the TechCon 2024
 
 This page uses semantic HTML elements and adheres to accessibility standards to provide a user-friendly and well-structured experience.
 
+### >>TechCon 2024 Conference Website - About Page
+
+The About page (`about.html`) provides detailed information about TechCon 2024, including:
+
+- The history of the conference, with historical images and descriptive alt text.
+- The mission statement explaining the core values and goals of TechCon.
+- Profiles of notable past speakers, each accompanied by a photo and a short biography.
+
+This page uses semantic HTML5 elements to organize content effectively and ensure accessibility compliance. Navigation and footer remain consistent across all pages.
+
 ## Technologies
 
 - HTML5 only (no external libraries or frameworks)
