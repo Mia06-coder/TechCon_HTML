@@ -26,7 +26,15 @@ This page uses semantic HTML5 elements to organize content effectively and ensur
 
 ### >>TechCon 2024 Conference Website - [Schedule Page](./techcon_website/schedule.html)
 
-This page presents the full event schedule for TechCon 2024 in a structured table format. It includes session times, topics, and speaker names with a clean layout, ensuring clarity and accessibility. Navigation and footer are consistent across all pages.
+This page (`schedule.html`) presents the full event schedule for TechCon 2024 in a structured table format. It includes session times, topics, and speaker names with a clean layout, ensuring clarity and accessibility. Navigation and footer are consistent across all pages.
+
+### >>TechCon 2024 Conference Website - [Register Page](./techcon_website/register.html)
+
+The Register page (`register.html`) allows attendees to sign up for TechCon 2024. It features an accessible HTML form collecting user details (name, email, password) and includes terms acceptance. The page maintains consistency with other pages using the same header, nav, and footer.
+
+### >>TechCon 2024 Conference Website - [Contact Page](./techcon_website/contact.html)
+
+The Contact page (`contact.html`) for TechCon 2024 includes key contact information, social media links, a responsive embedded Google Map showing the venue location, and a functional contact form. Consistent header, navigation, and footer elements maintain uniformity across the website.
 
 ## Technologies
 
